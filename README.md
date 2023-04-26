@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Areeb+Syed;Hamza7313;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Areeb+Syed;Hamza7313;a+Software+Developer;Student;)](https://git.io/typing-svg) 
 
   
 
@@ -78,29 +78,7 @@ Currently I'm learning and practicing courses and algorithms,
 
 <br> 
 
-<h2>Skills</h2> 
 
-  
-
-<p align="center"> 
-
-  <a href="https://skillicons.dev"> 
-
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" /> 
-
-  </a> 
-
-</p> 
-
-<p align="center"> 
-
-  <a href="https://skillicons.dev"> 
-
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" /> 
-
-  </a> 
-
-</p> 
 
   
 
